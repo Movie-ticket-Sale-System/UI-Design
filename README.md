@@ -8,11 +8,11 @@
 
 ### 当前页面展示
 
-<p><img src="<https://github.com/Movie-ticket-Sale-System/UI_Design/UI_image/1-1_themePage.png>" alt="" /></p>
+<p><img src="<https://github.com/Movie-ticket-Sale-System/UI-Design/tree/master/UI_image/1-1_themePage.png>" alt="" /></p>
 
-<p><img src="<https://github.com/Movie-ticket-Sale-System/UI_Design/UI_image/1-2_detailPage.png>" alt="" /></p>
+<p><img src="<https://github.com/Movie-ticket-Sale-System/UI-Design/tree/master/UI_image/1-2_detailPage.png>" alt="" /></p>
 
-<p><img src="<https://github.com/Movie-ticket-Sale-System/UI_Design/UI_image/1-1_payPage.png>" alt="" /></p>
+<p><img src="<https://github.com/Movie-ticket-Sale-System/UI-Design/tree/master/UI_image/1-1_payPage.png>" alt="" /></p>
 
 
 
