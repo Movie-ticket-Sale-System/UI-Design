@@ -8,9 +8,9 @@
 
 ### 当前页面展示
 
-![]("./UI_image/1-1_themePage.png")
-![]("./UI_image/1-2_detailPage.png")
-![]("./UI_image/1-1_payPage.png")
+![](./UI_image/1-1_themePage.png)
+![](./UI_image/1-2_detailPage.png)
+![](./UI_image/1-1_payPage.png)
 
 
 
