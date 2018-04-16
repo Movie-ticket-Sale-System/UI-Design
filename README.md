@@ -8,11 +8,7 @@
 
 ### 当前页面展示
 
-登录注册界面![3-1_registerPage](G:\学习文件\系统分析与设计\购票管理系统UI\UI-Design\UI_image\1-1_themePage.png)
-
-![1-2_detailPage](G:\学习文件\系统分析与设计\购票管理系统UI\UI-Design\UI_image\1-2_detailPage.png)
-
-![2_pay](G:\学习文件\系统分析与设计\购票管理系统UI\UI-Design\UI_image\2_pay.png)
+<img src="<https://github.com/Movie-ticket-Sale-System/UI_image/1-1_themePage.png>" alt="" />
 
 
 
