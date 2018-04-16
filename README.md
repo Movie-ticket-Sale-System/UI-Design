@@ -7,10 +7,9 @@
 ​     由于目前只是雏形阶段，仅有大致的框架和基础组件，细节的设置和整体风格尚未进行设计，将在以后的设计中逐步完善。
 
 ### 当前页面展示
-
 ![](./UI_image/1-1_themePage.png)
 ![](./UI_image/1-2_detailPage.png)
-![](./UI_image/1-1_payPage.png)
+![](./UI_image/2_pay.png)
 
 
 
